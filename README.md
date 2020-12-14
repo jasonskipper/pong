@@ -1,6 +1,9 @@
 # pong
 ---- 
 the classic pong game we all know and love, implemented in python3 using turtle.  
+  
+    
+# how to run 
 to run the program, navigate to the directory which contains pong.py and use the following command:  
 <pre>python3 pong.py</pre>  
   
