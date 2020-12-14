@@ -20,7 +20,7 @@ press up arrow to move paddle up
 press down arrow to move paddle down 
   
     
-!pong in action!(https://github.com/jasonskipper/pong/blob/main/pong_picture.png?raw=true)
+![pong in action](pong_picture.png)
   
     
       
