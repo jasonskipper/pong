@@ -14,7 +14,9 @@ player b:
 press up arrow to move paddle up  
 press down arrow to move paddle down 
   
-  
-  
+    
+      
+        
+        
   
 enjoy playing! 
