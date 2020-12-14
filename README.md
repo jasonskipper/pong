@@ -19,4 +19,4 @@ press down arrow to move paddle down
         
         
   
-enjoy playing! 
+# enjoy playing! 
