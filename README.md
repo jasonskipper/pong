@@ -9,13 +9,13 @@ to run the program, navigate to the directory which contains pong.py and use the
   
   
   
-# player a controls 
+# player 1 controls 
 ----  
 press e to move paddle up  
 press d to move paddle down 
   
   
-# player b controls    
+# player 2 controls    
 press up arrow to move paddle up  
 press down arrow to move paddle down 
   
