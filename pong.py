@@ -36,23 +36,25 @@ display.penup()
 display.hideturtle()
 display.goto(0, 260)
 display.write("player a: 0  player b: 0", align="center", font=("Courier", 24, "normal"))
+
 def a_paddle_up():
-    y = a_paddle.ycor() + 20
+    y = a_paddle.ycor() + 21
     a_paddle.sety(y)
 def a_paddle_down():
-    y = a_paddle.ycor() - 20
+    y = a_paddle.ycor() - 21
     a_paddle.sety(y)
 def b_paddle_up():
-    y = b_paddle.ycor() + 20
+    y = b_paddle.ycor() + 21
     b_paddle.sety(y)
 def b_paddle_down():
-    y = b_paddle.ycor() - 20
+    y = b_paddle.ycor() - 21
     b_paddle.sety(y)
 window.listen()
 window.onkeypress(a_paddle_up, "e")
 window.onkeypress(a_paddle_down, "d")
 window.onkeypress(b_paddle_up, "Up")
 window.onkeypress(b_paddle_down, "Down")
+
 while True:
     window.update()
     block.setx(block.xcor() + block.delta_x)
